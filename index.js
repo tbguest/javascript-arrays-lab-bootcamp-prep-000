@@ -27,4 +27,4 @@ function appendKitten(name) {
 }
 
 
-console.log(appendKitten())
+console.log(appendKitten('loop'))
