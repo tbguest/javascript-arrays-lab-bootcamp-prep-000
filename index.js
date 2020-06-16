@@ -17,4 +17,4 @@ function destructivelyRemoveLastKitten() {
   return kittens
 }
 
-console.log(destructivelyPrependKitten('Ralph'))
+console.log(destructivelyRemoveLastKitten())
