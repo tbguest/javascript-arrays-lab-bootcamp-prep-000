@@ -12,4 +12,4 @@ function destructivelyPrependKitten(name) {
   retun kittens
 }
 
-console.log(destructivelyAppendKitten('Ralph'))
+console.log(destructivelyPrependKitten('Ralph'))
