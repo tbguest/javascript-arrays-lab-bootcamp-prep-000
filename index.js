@@ -27,4 +27,4 @@ function appendKitten(name) {
 }
 
 
-console.log(destructivelyRemoveFirstKitten())
+console.log(appendKitten())
