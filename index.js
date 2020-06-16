@@ -30,4 +30,4 @@ function prependKitten(name) {
   return [name, ...kittens]
 }
 
-console.log(appendKitten('loop'))
+console.log(prependKitten('loop'))
