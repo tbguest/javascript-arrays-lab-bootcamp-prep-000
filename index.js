@@ -38,4 +38,4 @@ function removeFirstKitten() {
   return kittens.slice(1)
 }
 
-console.log(removeLastKitten())
+console.log(removeFirstKitten())
