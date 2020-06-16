@@ -9,7 +9,7 @@ function destructivelyAppendKitten(name) {
 
 function destructivelyPrependKitten(name) {
   kittens.unshift(name)
-  retun kittens
+  return kittens
 }
 
 console.log(destructivelyPrependKitten('Ralph'))
