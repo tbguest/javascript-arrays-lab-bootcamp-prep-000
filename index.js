@@ -22,4 +22,4 @@ function destructivelyRemoveFirstKitten() {
   return kittens
 }
 
-console.log(destructivelyRemoveLastKitten())
+console.log(destructivelyRemoveFirstKitten())
