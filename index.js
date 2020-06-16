@@ -7,4 +7,4 @@ function destructivelyAppendKitten(name) {
   return kittens
 }
 
-console.log(destructivelyAppendKitten, 'Ralph')
+console.log(destructivelyAppendKitten('Ralph'))
