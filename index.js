@@ -34,4 +34,4 @@ function removeLastKitten() {
   return kittens.slice(-1)
 }
 
-console.log(prependKitten('loop'))
+console.log(removeLastKitten())
